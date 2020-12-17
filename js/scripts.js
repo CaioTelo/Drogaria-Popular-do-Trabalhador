@@ -69,30 +69,30 @@
 
   // Contato Whatsapp
 function wpp () {
-  window.open(`https://${screen.width < 800 ? 'api' : 'web'}.whatsapp.com/send?phone=5561999999&text=Terra Plana`)
+  window.open(`https://${screen.width < 800 ? 'api' : 'web'}.whatsapp.com/send?phone=5561996711616&text=Terra Plana`)
 }
 function wppproduto1(){
-  window.open(`https://${screen.width < 800 ? 'api' : 'web'}.whatsapp.com/send?phone=5561999999&text=Olá tenho interesse nesse "produto1" em promoção`)
+  window.open(`https://${screen.width < 800 ? 'api' : 'web'}.whatsapp.com/send?phone=5561996711616&text=Olá tenho interesse nesse "produto1" em promoção`)
   
 }
 function wppproduto2(){
-  window.open(`https://${screen.width < 800 ? 'api' : 'web'}.whatsapp.com/send?phone=5561999999&text=Olá tenho interesse nesse "produto2" em promoção`)
+  window.open(`https://${screen.width < 800 ? 'api' : 'web'}.whatsapp.com/send?phone=5561996711616&text=Olá tenho interesse nesse "produto2" em promoção`)
   
 }
 function wppproduto3(){
-  window.open(`https://${screen.width < 800 ? 'api' : 'web'}.whatsapp.com/send?phone=5561999999&text=Olá tenho interesse nesse "produto3" em promoção`)
+  window.open(`https://${screen.width < 800 ? 'api' : 'web'}.whatsapp.com/send?phone=5561996711616&text=Olá tenho interesse nesse "produto3" em promoção`)
   
 }
 function wppproduto4(){
-  window.open(`https://${screen.width < 800 ? 'api' : 'web'}.whatsapp.com/send?phone=5561999999&text=Olá tenho interesse nesse "produto4" em promoção`)
+  window.open(`https://${screen.width < 800 ? 'api' : 'web'}.whatsapp.com/send?phone=5561996711616&text=Olá tenho interesse nesse "produto4" em promoção`)
   
 }
 function wppproduto5(){
-  window.open(`https://${screen.width < 800 ? 'api' : 'web'}.whatsapp.com/send?phone=5561999999&text=Olá tenho interesse nesse "produto5" em promoção`)
+  window.open(`https://${screen.width < 800 ? 'api' : 'web'}.whatsapp.com/send?phone=5561996711616&text=Olá tenho interesse nesse "produto5" em promoção`)
   
 }
 function wppproduto6(){
-  window.open(`https://${screen.width < 800 ? 'api' : 'web'}.whatsapp.com/send?phone=5561999999&text=Olá tenho interesse nesse "produto6" em promoção`)
+  window.open(`https://${screen.width < 800 ? 'api' : 'web'}.whatsapp.com/send?phone=5561996711616&text=Olá tenho interesse nesse "produto6" em promoção`)
   
 }
 
