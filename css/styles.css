@@ -9207,6 +9207,9 @@ button.bg-dark:focus {
   }
 }
 @media (min-width: 1200px) {
+  .promo{
+    max-height: 400px;
+  }
   .m-xl-0 {
     margin: 0 !important;
   }
@@ -9725,6 +9728,7 @@ button.bg-dark:focus {
   }
 }
 @media (min-width: 1200px) {
+
   .text-xl-left {
     text-align: left !important;
   }
