@@ -72,11 +72,11 @@ function wpp () {
   window.open(`https://${screen.width < 800 ? 'api' : 'web'}.whatsapp.com/send?phone=5561996711616&text=Olá, tenho interesse em comprar um produto.`)
 }
 function wppproduto1(){
-  window.open(`https://${screen.width < 800 ? 'api' : 'web'}.whatsapp.com/send?phone=5561996711616&text=Olá tenho interesse no Dipirona Maxalgina em promoção por R$ 1,99`)
+  window.open(`https://${screen.width < 800 ? 'api' : 'web'}.whatsapp.com/send?phone=5561996711616&text=Olá tenho interesse no Dipirona 20 ml em promoção por R$ 2,99`)
   
 }
 function wppproduto2(){
-  window.open(`https://${screen.width < 800 ? 'api' : 'web'}.whatsapp.com/send?phone=5561996711616&text=Olá tenho interesse no Dorflex em promoção por R$ 3,99`)
+  window.open(`https://${screen.width < 800 ? 'api' : 'web'}.whatsapp.com/send?phone=5561996711616&text=Olá tenho interesse no Dorflex em promoção por R$ 4,99`)
   
 }
 function wppproduto3(){
